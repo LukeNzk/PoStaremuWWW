@@ -28,7 +28,7 @@ którą będziemy poznawali dzięki warsztatom ze Sławomirem Czekalskim.</p>
 </div>
 
 <div class="col-sm-2">
-<h2>GLAERIA</h2>
+<h2>GALERIA</h2>
 <p>
 Zapis fotograficzny warsztatów z Mistrzem. <br/>
 <a href="https://www.facebook.com/pg/fundacja.postaremu/photos/?tab=album&album_id=1009037225837074">Oglądaj...<a>
