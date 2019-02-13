@@ -30,13 +30,4 @@ img="https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/50229557_2366143660126417_836
 desc="Zapraszamy instrumentalistów na każdym poziomie. Nauczymy was tradycyjnych melodii zebranych przez naszych muzyków oraz podstaw improwizacji. Spotkania 12, 14, 19, 21 lutego.">
 </div>
 
-<div class="tile" 
-day="25" month="II" time="18:30" venue="Łódzki Dom Kultury"
-title="Panie i Panowie, śpiewamy wiejskie ballady!" 
-url="https://www.facebook.com/events/560304524467813/" 
-img="https://scontent.fpoz1-1.fna.fbcdn.net/v/t1.0-9/51772156_2421760324564750_5533149497774833664_o.jpg?_nc_cat=111&_nc_ht=scontent.fpoz1-1.fna&oh=7daf688ea9c1d64a8a8fb8323dfcceeb&oe=5CED7FA9"
-desc="Koncert poświęcony grze legendarnego skrzypka Jana Bogusza z Kamiennej Woli położonej na pograniczu radomsko-opoczyńskim. Muzyka, opowieści, wiejskie legendy. Wstęp wolny.">
-</div>
-
-
 </div>
