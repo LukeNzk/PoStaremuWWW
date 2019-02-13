@@ -43,7 +43,7 @@ day="27" month="II" time="18:30" venue="Łódzki Dom Kultury"
 title="Skrzypce Bogusza // on/off kultura #10" 
 url="https://www.facebook.com/events/630671224032274/" 
 img="https://scontent.fpoz1-1.fna.fbcdn.net/v/t1.0-9/51783575_2421304717943644_738536398394490880_o.jpg?_nc_cat=111&_nc_ht=scontent.fpoz1-1.fna&oh=bd8ac896052b5484deec1d0e64791a67&oe=5CE51ED4"
-desc="Czy Jagusia dała w końcu Jankowi wianek? Z kim Mania nabyła dzieciąteczka? Jakimi liśćmi Janek przykrył Zosię? <\\br> - wszystkich, chcących poznać odpowiedzi na te nurtujące pytania oraz pragnących uczyć się śpiewać zapraszamy na wspólne śpiewanie wiejskich ballad.">
+desc="Czy Jagusia dała w końcu Jankowi wianek? Z kim Mania nabyła dzieciąteczka? Jakimi liśćmi Janek przykrył Zosię? - wszystkich, chcących poznać odpowiedzi na te nurtujące pytania oraz pragnących uczyć się śpiewać zapraszamy na wspólne śpiewanie wiejskich ballad.">
 </div>
 
 <div class="tile" 
@@ -54,4 +54,3 @@ img="https://scontent.fpoz1-1.fna.fbcdn.net/v/t1.0-9/51559191_2406690252738424_5
 desc="Intensywne warsztaty krakowiaków i potańc przy muzyce z Małopolski na żywo. Zagrają doświadczeni kontynuatorzy i rekonstruktorzy muzyki tradycyjnej.">
 </div>
 </div>
-
