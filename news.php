@@ -38,19 +38,5 @@ img="https://scontent.fpoz1-1.fna.fbcdn.net/v/t1.0-9/51772156_2421760324564750_5
 desc="Koncert poświęcony grze legendarnego skrzypka Jana Bogusza z Kamiennej Woli położonej na pograniczu radomsko-opoczyńskim. Muzyka, opowieści, wiejskie legendy. Wstęp wolny.">
 </div>
 
-<div class="tile" 
-day="27" month="II" time="18:30" venue="Łódzki Dom Kultury"
-title="Skrzypce Bogusza // on/off kultura #10" 
-url="https://www.facebook.com/events/630671224032274/" 
-img="https://scontent.fpoz1-1.fna.fbcdn.net/v/t1.0-9/51783575_2421304717943644_738536398394490880_o.jpg?_nc_cat=111&_nc_ht=scontent.fpoz1-1.fna&oh=bd8ac896052b5484deec1d0e64791a67&oe=5CE51ED4"
-desc="Czy Jagusia dała w końcu Jankowi wianek? Z kim Mania nabyła dzieciąteczka? Jakimi liśćmi Janek przykrył Zosię? - wszystkich, chcących poznać odpowiedzi na te nurtujące pytania oraz pragnących uczyć się śpiewać zapraszamy na wspólne śpiewanie wiejskich ballad.">
-</div>
 
-<div class="tile" 
-day="3" month="III" time="12:00" venue="Poleski Ośrodek Sztuki"
-title="Raraszek" 
-url="https://www.facebook.com/events/1261170310716268/" 
-img="https://scontent.fpoz1-1.fna.fbcdn.net/v/t1.0-9/51559191_2406690252738424_5149481735670464512_o.jpg?_nc_cat=110&_nc_ht=scontent.fpoz1-1.fna&oh=6997b80d41d49b664585ca1639af3077&oe=5CF39D60"
-desc="Intensywne warsztaty krakowiaków i potańc przy muzyce z Małopolski na żywo. Zagrają doświadczeni kontynuatorzy i rekonstruktorzy muzyki tradycyjnej.">
-</div>
 </div>
